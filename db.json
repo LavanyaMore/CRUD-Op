@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "d497",
+      "name": "Aryan ",
+      "email": "aryan@gmail.com",
+      "phone": "7867882301",
+      "gender": "Male",
+      "lang": [
+        1,
+        4,
+        2
+      ],
+      "education": "PhD"
+    },
+    {
+      "id": "66f1",
+      "name": "ritu",
+      "email": "rit789@gmail.com",
+      "phone": "9980764325",
+      "gender": "Female",
+      "lang": [
+        2,
+        8,
+        6
+      ],
+      "education": "Graduate"
+    },
+    {
+      "id": "57fc",
+      "name": "Ashish ",
+      "email": "ash999@gmail.com",
+      "phone": "8876498231",
+      "gender": "Male",
+      "lang": [
+        4,
+        2
+      ],
+      "education": "Graduate"
+    },
+    {
+      "id": "6b32",
+      "name": "Lavanya",
+      "email": "lava234@gmail.com",
+      "phone": "9137026597",
+      "gender": "Female",
+      "lang": [
+        2,
+        3,
+        1
+      ],
+      "education": "Post-Graduate"
+    }
+  ]
+}
